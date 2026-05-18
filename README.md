@@ -3,7 +3,7 @@
 > Intelligent AI-powered aquatic waste management and water quality monitoring system.
 
 🏆 1st Place — Innoctech 2024 (700+ Teams)  
-📜 Indian Patent Granted — Patent No. 202411104044 A  
+📜 Indian Patent Published: Patent No. 202411104044 A  
 📄 Research Published in Springer Journal Proceedings
 
 ---
